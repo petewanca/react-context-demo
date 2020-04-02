@@ -1,0 +1,16 @@
+.container {
+    height: 30%;
+    background-color: #586ba4;
+}
+
+.containerHeader {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+}
+
+.containerDesc {
+    text-align: center;
+    padding-bottom: 15px;
+}
